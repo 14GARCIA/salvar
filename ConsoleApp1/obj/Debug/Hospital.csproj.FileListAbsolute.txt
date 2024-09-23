@@ -1,0 +1,7 @@
+C:\Users\hgarc\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\hgarc\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\hgarc\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\hgarc\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\Hospital.csproj.AssemblyReference.cache
+C:\Users\hgarc\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\hgarc\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\hgarc\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
